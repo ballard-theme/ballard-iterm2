@@ -1,0 +1,26 @@
+{
+  "name": "ballard-iterm2",
+  "displayName": "Ballard",
+  "description": "Official Ballard theme for iTerm2.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Daniel Perez Alvarez",
+    "email": "daniel@unindented.org",
+    "url": "https://www.unindented.org/"
+  },
+  "homepage": "https://github.com/ballard-theme/ballard-iterm2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ballard-theme/ballard-iterm2"
+  },
+  "bugs": {
+    "url": "https://github.com/ballard-theme/ballard-iterm2/issues"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "conventional-changelog-conventionalcommits": "^4.6.3",
+    "semantic-release": "^19.0.2"
+  }
+}
