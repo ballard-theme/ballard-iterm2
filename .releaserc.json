@@ -31,11 +31,11 @@
         "assets": [
           {
             "path": "Ballard Dark.itermcolors",
-            "name": "Ballard Dark.itermcolors"
+            "name": "Ballard_Dark.itermcolors"
           },
           {
             "path": "Ballard Light.itermcolors",
-            "name": "Ballard Light.itermcolors"
+            "name": "Ballard_Light.itermcolors"
           }
         ]
       }
